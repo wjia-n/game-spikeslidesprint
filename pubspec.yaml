@@ -1,7 +1,7 @@
 name: spikeslidesprint
 description: "Spike Slide Sprint - slide under spikes"
 publish_to: 'none'
-version: 1.0.0+2
+version: 1.0.0+3
 environment:
   sdk: ^3.13.5
 
